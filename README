@@ -1,4 +1,5 @@
 The data is gathered directly from Netflix Prize data, and the website is as follow:
 https://www.kaggle.com/netflix-inc/netflix-prize-data
 
-After unzipping the files, to successsfully run the models, run the preprocessor.ipynb and shrink_rating.ipynb first for data preprocessing.
+After unzipping the files, to successsfully run the models, run the preprocessor.ipynb and shrink_rating.ipynb first
+for data preprocessing.
